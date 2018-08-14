@@ -1,5 +1,7 @@
 package com.huiqiao.ymm.mycoolweather.db;
 
+import com.google.gson.annotations.SerializedName;
+
 import org.litepal.crud.DataSupport;
 
 /**
